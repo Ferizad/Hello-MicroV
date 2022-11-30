@@ -27,31 +27,19 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Microverse Project1] <a name="about-project"></a>
+# 📖 Hello-MicroV <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[Microverse Project1]** is a simple project using HTML and CSS...
+** Hello-MicroV ** is a simple project using HTML and CSS...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - Html
 - CSS
 
-### Tech Stack <a name="tech-stack"></a>
-
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://github.com/Ferizad/Hello-MicroV)
 
@@ -60,8 +48,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -139,13 +125,6 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Mobile view]**
-- [ ] **[Desktop view]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
